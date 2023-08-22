@@ -20,7 +20,7 @@ The Telegram Forward Bot is designed to forward messages from specific users and
 
 ## Installation
 
-1.Install the required Python packages using pip:
+# 1.Install the required Python packages using pip:
 
 pip install -r requirements.txt
 
