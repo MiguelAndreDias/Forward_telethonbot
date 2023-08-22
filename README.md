@@ -20,14 +20,19 @@ The Telegram Forward Bot is designed to forward messages from specific users and
 
 ## Installation
 
-### 1.Install the required Python packages using pip:
+1.Install the required Python packages using pip:
 
+```
 pip install -r requirements.txt
 
-2.Create a .env file in the project directory and add your Telegram API ID and API hash:
+```
 
+
+2.Create a .env file in the project directory and add your Telegram API ID and API hash:
+```
 API_ID=your_api_id
 API_HASH=your_api_hash
+```
 
 3.Customize the lista_users list with the usernames of users whose messages you want to forward. Update the groups list with the channel/group IDs where you want to forward and pin messages.
 
